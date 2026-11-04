@@ -1,0 +1,18 @@
+[
+  "                                                                          ",
+  "TF MEDIA PLAYER  -  SELECT A FILE TO BEGIN                                ",
+  "FILE ERROR 00   -   K0 FILES TO SELECT ANOTHER FILE                       ",
+  "FILES 0000 / 0000    VIDEO > IMAGE > AUDIO                                ",
+  "K1/K2 MOVE (HOLD TO REPEAT)   K3 OPEN   K0 BACK   K13 CLEAN               ",
+  "NO SUPPORTED FILES FOUND   -   BMP / WAV / TFV                            ",
+  "READING TF CARD...                                                        ",
+  "00:00:00 / 00:00:00     K4 SEEK   |   K14 RESTART                         ",
+  "K1/K2 POSITION   K3 APPLY   K4 CANCEL   K14 CHANGE STEP                   ",
+  "K0 FILES   K1 PREVIOUS   K2 NEXT   K3 PLAY/PAUSE   K13 CLEAN/RECALL       ",
+  "K10 ZOOM   K11 WAVE   K12 LYRICS   K5 TRANSITION                          ",
+  "K6/K7 BRIGHTNESS   K8/K9 CONTRAST   K15 TAP MUTE / HOLD VOLUME",
+  "SEEK PREVIEW  -  PLAYBACK IS HELD                                         ",
+  "K1 BACKWARD   K2 FORWARD   -   HOLD TO REPEAT                             ",
+  "STEP 10S    K14: 1 / 10 / 60 SECONDS                                      ",
+  "VOLUME 16 / 16   SOUND ON    K1 LOWER  K2 HIGHER  K3 MUTE  K4 BACK"
+]

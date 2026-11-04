@@ -1,0 +1,5 @@
+Anlogic IP notices preserved outside source code
+
+Pixel/audio PLL and vendor primitive wrappers originate from Anlogic.
+Copyright (c) 2011-2021 Anlogic, Inc. All Right Reserved.
+The Anlogic TD installation supplies the vendor primitive implementation.
